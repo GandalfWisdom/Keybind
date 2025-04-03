@@ -1,0 +1,27 @@
+{
+  "name": "@gandalfwisdom/keybind",
+  "version": "1.0.0",
+  "description": "A module for easily setting keybind actions to your game!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GandalfWisdom/Keybind.git"
+  },
+  "keywords": [
+    "Roblox",
+    "Lua",
+    "Nevermore",
+    "Module"
+  ],
+  "author": "GandalfWisdom",
+  "license": "ISC",
+  "dependencies": {
+    "@gandalfwisdom/checkinput": "^1.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "bugs": {
+    "url": "https://github.com/GandalfWisdom/Keybind/issues"
+  },
+  "homepage": "https://github.com/GandalfWisdom/Keybind#readme"
+}

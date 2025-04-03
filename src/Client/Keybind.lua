@@ -28,9 +28,9 @@ function Keybind.new_bt(key_enum : EnumItem?, held_key_enum : EnumItem?, repeat_
 	};
 end;
 
---==========================
+--=========================================
 --Keybind MAIN CONSTRUCTOR AND FUNCTIONS
---==========================
+--=========================================
 --[[
 	Constructs a new Keybind object.
 ]]
@@ -48,7 +48,6 @@ end;
 --===================
 --Keybind METHODS
 --===================
-
 local bind_table = {};
 local tap_count_table = {};
 local held_input_table = {};
