@@ -1,0 +1,7 @@
+{
+  "name": "keybind",
+  "globIgnorePaths": [ "**/.package-lock.json" ],
+  "tree": {
+    "$path": "src"
+  }
+}
