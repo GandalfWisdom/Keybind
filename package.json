@@ -1,6 +1,6 @@
 {
   "name": "@gandalfwisdom/keybind",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A module for easily setting keybind actions to your game!",
   "repository": {
     "type": "git",
@@ -15,6 +15,7 @@
   "author": "GandalfWisdom",
   "license": "ISC",
   "dependencies": {
+    "@quenty/loader": "^10.7.1",
     "@gandalfwisdom/checkinput": "^1.0.0"
   },
   "publishConfig": {
